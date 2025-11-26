@@ -1,4 +1,4 @@
 <?php
-$output = shell_exec('cat /path/to/file.txt');
+$output = shell_exec('cat index.php');
 echo $output;
 ?>
