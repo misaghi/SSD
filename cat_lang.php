@@ -1,4 +1,4 @@
 <?php
-exec('cat /path/to/file.txt', $result);
+exec('cat index.php', $result);
 print_r($result);
 ?>
